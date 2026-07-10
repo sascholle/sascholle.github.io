@@ -99,6 +99,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 'Poster presentation at EGU26'
+          company: 
+          company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
+          location: 'Vienna, Austria'
+          date_end: ''
+          date_start: '2026-05-03'
+          description: 'Poster title: Towards Bias-correction in the Arctic with Deep Learning:  An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions'
+          icon: ''
+          url: ''
         - title: 'AI Student Researcher at AWI'
           company: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Atmospheric Physics Group
           company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html

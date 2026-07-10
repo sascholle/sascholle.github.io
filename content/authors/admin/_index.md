@@ -31,8 +31,7 @@ bio: My research interests include artificial intelligence, neuroscience and the
 interests:
   - Scientific machine learning
   - Dynamical system modelling
-  - Computational Neuroscience
-  - Anything outdoors
+  - Computational neuroscience
 
 # Education to show in About widget
 education:
@@ -75,17 +74,17 @@ skills:
     items:
       - name: Sport climbing and bouldering
         description: ''
-        percent: 80
+        percent: 60
         icon: mountain
         icon_pack: fas
-      - name: Cycling
+      - name: Bikepacking
         description: ''
-        percent: 65
+        percent: 80
         icon: bicycle
         icon_pack: fas
       - name: Sailing
         description: ''
-        percent: 90
+        percent: 85
         icon: sailboat
         icon_pack: fas
 
