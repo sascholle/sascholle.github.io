@@ -29,7 +29,8 @@ bio: My research interests include artificial intelligence, neuroscience and the
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
+  - Scientific machine learning
+  - Dynamical system modelling
   - Computational Neuroscience
   - Anything outdoors
 
@@ -53,12 +54,12 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Earth system science
         description: ''
         percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: Neuroscience
+      - name: NeuroAI
         description: ''
         percent: 75
         icon: brain
@@ -122,4 +123,4 @@ I am a Cognitive Science master’s student in Germany focusing on scientific ma
 
 My academic interests lie at the intersection of machine learning and system theory. I am fascinated by how AI can both draw inspiration from the brain and contribute to understanding it, while also being applied to complex real-world challenges such as climate systems.
 
-In my free time, I enjoy the outdoors and engaging in a bit of type-2 fun after a full day of type-3 fun spent debugging my code.
+In my free time, I enjoy a bit of type-2 fun after a day of type-3 fun spent debugging my code.
