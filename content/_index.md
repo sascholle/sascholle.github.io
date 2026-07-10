@@ -99,7 +99,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'Poster presentation at EGU26'
+        - title: 'Poster Presentation at EGU26'
           company: 
           company_url: https://www.egu26.eu/
           location: 'Vienna, Austria'
