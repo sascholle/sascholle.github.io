@@ -101,11 +101,20 @@ sections:
       items:
         - title: 'Poster presentation at EGU26'
           company: 
-          company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
+          company_url: https://www.egu26.eu/
           location: 'Vienna, Austria'
           date_end: '2026-05-08'
           date_start: '2026-05-03'
-          description: 'Poster title: Towards Bias-correction in the Arctic with Deep Learning:  An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions'
+          description: 'Poster title: Towards Bias-correction in the Arctic with Deep Learning:  An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions.'
+          icon: ''
+          url: ''
+        - title: 'Awarded the Deutschlandstipendium for 2025/2026'
+          company: 
+          company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
+          location: 'Osnabrück, Germany'
+          date_end: '2025-10-01'
+          date_start: '2026-09-31'
+          description: 'With support from the Rosenxt Creation Center GmbH.'
           icon: ''
           url: ''
         - title: 'AI Student Researcher at AWI'
