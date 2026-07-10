@@ -103,7 +103,7 @@ sections:
           company: 
           company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
           location: 'Vienna, Austria'
-          date_end: ''
+          date_end: '2026-05-08'
           date_start: '2026-05-03'
           description: 'Poster title: Towards Bias-correction in the Arctic with Deep Learning:  An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions'
           icon: ''
@@ -112,7 +112,7 @@ sections:
           company: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Atmospheric Physics Group
           company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
           location: 'Bremerhaven, Germany'
-          date_end: ''
+          date_end: '2025-12-15'
           date_start: '2024-12-15'
           description: 'Using the transformer-based atmospheric foundation model AtmoRep, for bias-correcting near-surface air temperatures over Arctic sea ice.'
           icon: ''
