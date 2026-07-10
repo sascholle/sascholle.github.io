@@ -64,6 +64,11 @@ skills:
         percent: 75
         icon: brain
         icon_pack: fas
+      - name: Remote sensing 
+        description: ''
+        percent: 60
+        icon: chart-line
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
