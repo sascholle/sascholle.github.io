@@ -101,7 +101,7 @@ sections:
       items:
         - title: 'Poster Presentation at EGU26'
           company: EGU General Assembly 
-          company_url:
+          company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
           location: 'Vienna, Austria'
           date_end: '2026-05-08'
           date_start: '2026-05-03'
