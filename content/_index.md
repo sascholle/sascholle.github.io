@@ -99,21 +99,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: 'Poster Presentation at EGU26'
-        #   company: EGU General Assembly 
-        #   company_url: 
-        #   location: 'Vienna, Austria'
-        #   date_end: '2026-05-08'
-        #   date_start: '2026-05-03'
-        #   description: 'Poster title - Towards Bias-correction in the Arctic with Deep Learning:  An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions.'
-        #   icon: ''
-        #   url: ''
+        - title: 'Poster Presentation at EGU26'
+          company: EGU General Assembly 
+          company_url: 
+          location: 'Vienna, Austria'
+          date_end: '2026-05-08'
+          date_start: '2026-05-03'
+          description: 'Poster title - Towards Bias-correction in the Arctic with Deep Learning:  An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions.'
+          icon: ''
+          url: ''
         - title: 'Awarded the Deutschlandstipendium for 2025/2026'
           company: Deutschlandstipendium 
           company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
           location: 'Osnabrück, Germany'
           date_end: '2025-10-01'
-          date_start: '2026-09-31'
+          date_start: '2026-09-30'
           description: 'With support from the Rosenxt Creation Center GmbH.'
           icon: ''
           url: ''
