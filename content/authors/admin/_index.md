@@ -56,7 +56,7 @@ skills:
       - name: Earth system science
         description: ''
         percent: 60
-        icon: chart-line
+        icon: cloud
         icon_pack: fas
       - name: NeuroAI
         description: ''
@@ -66,7 +66,7 @@ skills:
       - name: Remote sensing 
         description: ''
         percent: 60
-        icon: chart-line
+        icon: globe-europe-africa
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
