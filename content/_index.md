@@ -112,8 +112,8 @@ sections:
           company: Deutschlandstipendium 
           company_url: https://www.uni-osnabrueck.de/studieren/kosten-stipendien-und-foerderung/deutschlandstipendium
           location: 'Osnabrück, Germany'
-          date_end: '2025-10-01'
-          date_start: '2026-09-30'
+          date_end: '2026-09-30'
+          date_start: '2025-10-01'
           description: 'With support from the Rosenxt Creation Center GmbH.'
           icon: ''
           url: ''
