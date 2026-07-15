@@ -26,7 +26,7 @@ publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Publications of the Institute of Cognitive Science Universität Osnabrück"
-publication_short: ""
+publication_short: "Universität Osnabrück"
 
 abstract: "Does AI in public discourse change with different political and socio-economic systems? An analysis of the AI debate in newspapers in the emergent AI Superpowers: USA, China and Germany. \n This study analyses popular newspapers of Germany, the USA and China and conducts a sentiment and SWOT analysis, to compare the style of discourse people of these nations are presented with. This study fnds that China is the most positive in its discourse around AI, while the US and Germany mainly communicate information on artifcial intelligence in an informative manner. In all three countries, the newspapers mostly cover favourable attributes of AI such as opportunities and strengths rather than adverse aspects like threats and weaknesses."
 

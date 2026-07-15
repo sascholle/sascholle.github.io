@@ -26,7 +26,7 @@ publication_types: ["patent"]
 
 # Publication name and optional abbreviated publication name.
 #publication: ""
-#publication_short: ""
+publication_short: "NASA Frontier Development Lab"
 
 abstract: Helped developed a user interface for an AI-augmented decision-making tool called the "H2 Golden Retriever" for evidence-based hydrogen research grantsmanship
 

@@ -16,7 +16,7 @@ publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
 #publication: ""
-#publication_short: ""
+publication_short: "Universität Osnabrück"
 
 abstract: 'Deep Learning for fMRI Functional Alignment: Multi-subject autoencoder network for learning a shared latent space for neural activity'
 
