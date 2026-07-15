@@ -17,9 +17,9 @@ publication_types: ['speech']
 publication: EGU General Assembly 2026
 publication_short: EGU26
 
-abstract: Towards Bias-correction in the Arctic with Deep Learning. An Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions.
+abstract: Towards Bias-correction in the Arctic with Deep Learning: an Ablation Study of Sparsity for Fine-Tuning Foundation Models in Observation-Limited Regions.
 
-summary: 'ERA5 exhibits known biases and limitations, particularly in the sparsely observed Arctic, where near-surface temperatures (T2M) can show a warm bias of several degrees - reaching up to 5 K under cold, clear winter conditions. Previous studies applying ML to interpolate sparse Arctic observations have demonstrated improved performance compared to ERA5. In this work, we investigate how varying levels of data sparsity during training affect the pretrained transformer model AtmoRep. Our goal is to assess the potential of leveraging foundation models in data-sparse regions like the Arctic for downstream applications, such as bias correction.'
+summary: 'Abstract: ERA5 exhibits known biases and limitations, particularly in the sparsely observed Arctic, where near-surface temperatures (T2M) can show a warm bias of several degrees - reaching up to 5 K under cold, clear winter conditions. Previous studies applying ML to interpolate sparse Arctic observations have demonstrated improved performance compared to ERA5. In this work, we investigate how varying levels of data sparsity during training affect the pretrained transformer model AtmoRep. Our goal is to assess the potential of leveraging foundation models in data-sparse regions like the Arctic for downstream applications, such as bias correction.'
 
 tags: []
 
