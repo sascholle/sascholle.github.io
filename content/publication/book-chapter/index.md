@@ -25,7 +25,7 @@ date: "2022-07-01"
 publication_types: ["chapter"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Publications of the Institute of Cognitive Science Universität Osnabrück"
+publication: "Publications of the Institute of Cognitive Science Universität Osnabrück"
 publication_short: ""
 
 abstract: "Title: Does AI in public discourse change with different political and socio-economic systems? An analysis of the AI debate in newspapers in the emergent AI Superpowers: USA, China and Germany. 
