@@ -23,7 +23,7 @@ summary: ''
 
 tags: []
 
-featured: false
+featured: true
 
 url_pdf: 'egu_poster.pdf'
 url_code: ''
