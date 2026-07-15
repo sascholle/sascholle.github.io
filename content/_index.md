@@ -110,7 +110,7 @@ sections:
         #   url: ''
         - title: 'Awarded the Deutschlandstipendium for 2025/2026'
           company: Deutschlandstipendium 
-          company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
+          company_url: https://www.uni-osnabrueck.de/studieren/kosten-stipendien-und-foerderung/deutschlandstipendium
           location: 'Osnabrück, Germany'
           date_end: '2025-10-01'
           date_start: '2026-09-30'
