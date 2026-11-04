@@ -99,7 +99,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'AI Student Researcher at AWI'
+        - title: 'Participant at the natESM 2026 Summer School'
+          company: natESM
+          company_url: https://www.nat-esm.de/services/workshops-and-trainings/summer-schools/first-natesm-summer-school
+          location: 'Kiel, Germany'
+          date_end: '2026-09-19'
+          date_start: '2026-09-13'
+          description: 'A week of working on ICON-XPP alongside training from DKRZ specialists and scientific lectures on the atmosphere, ocean and land. 
+          icon: ''
+          url: ''
+        - title: 'ML Student Researcher at AWI'
           company: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Atmospheric Physics Group
           company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
           location: 'Bremerhaven, Germany'
