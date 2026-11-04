@@ -105,7 +105,7 @@ sections:
           location: 'Kiel, Germany'
           date_end: '2026-09-19'
           date_start: '2026-09-13'
-          description: 'A week of working on ICON-XPP alongside training from DKRZ specialists and scientific lectures on the atmosphere, ocean and land.'
+          description: 'A week of working on ICON-XPP, alongside training from natESM RSEs and DKRZ specialists, and scientific lectures on the atmosphere, ocean and land. Guest speakers: Jochem Marotzke, Nils Brüggemann, Sabine Attinger, et al.'
           icon: ''
           url: ''
         - title: 'ML Student Researcher at AWI'
