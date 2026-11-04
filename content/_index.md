@@ -99,15 +99,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 'Awarded the Deutschlandstipendium for 2025/2026'
-          company: Deutschlandstipendium 
-          company_url: https://www.uni-osnabrueck.de/studieren/kosten-stipendien-und-foerderung/deutschlandstipendium
-          location: 'Osnabrück, Germany'
-          date_end: '2026-09-30'
-          date_start: '2025-10-01'
-          description: 'With support from the Rosenxt Creation Center GmbH.'
-          icon: ''
-          url: ''
         - title: 'AI Student Researcher at AWI'
           company: Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Atmospheric Physics Group
           company_url: https://www.awi.de/forschung/klimawissenschaften/physik-der-atmosphaere.html
