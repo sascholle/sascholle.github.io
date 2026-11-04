@@ -1,5 +1,5 @@
 ---
-title: "NASA Patent"
+title: "NASA Disclosure of New Technology"
 authors:
 - Rozhin Yasaei
 - Paul R.M. Seurin
